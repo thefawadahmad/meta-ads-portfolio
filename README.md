@@ -1,71 +1,39 @@
-# 👋 Hi, I'm Fawad Ahmad
+# Fawad Ahmad
 
-🚀 Meta Ads Specialist | E-commerce Growth Strategist  
-💰 Generated 5M+ PKR in Revenue | 4X+ ROAS Campaigns  
-🏢 Founder of Blue 7 Digital  
+Meta Ads Specialist focused on scaling e-commerce brands with data-driven strategies and high-performing campaigns.
 
----
+## Overview
 
-## 📈 What I Do
+I help e-commerce businesses grow profitably through structured Meta Ads systems, creative testing, and performance optimization.
 
-I help e-commerce brands scale profitably using **data-driven Meta Ads strategies**, high-converting creatives, and structured scaling systems.
+## Services
 
-- Facebook & Instagram Ads (Meta Ads)
-- Shopify Store Growth
-- Creative Strategy & Testing
-- Scaling Winning Campaigns
+- Meta Ads (Facebook & Instagram)
+- Campaign Strategy & Setup
+- Creative Testing & Optimization
+- Scaling High-Performing Campaigns
+- Shopify Growth Support
+
+## Case Studies
+
+### E-commerce Brand (Pakistan)
+- Revenue: 5,000,000+ PKR
+- ROAS: 4X+
+- Strategy: Creative testing and CBO scaling
+
+### Shopify Store Growth
+- Built consistent daily sales from low baseline
+- Focused on product-market fit and ad creatives
+
+## Tools & Skills
+
+- Meta Ads Manager
+- Shopify
+- Audience Research
+- Creative Strategy
 - Funnel Optimization
 
----
+## Contact
 
-## 🧠 My Approach
-
-I don’t just run ads, I build **systems that scale**.
-
-✔ Deep product & audience research  
-✔ Scroll-stopping creatives  
-✔ Data-driven decision making  
-✔ Aggressive scaling with ROAS focus  
-
----
-
-## 📊 Case Studies
-
-### 🔹 E-commerce Brand (Pakistan Market)
-- 💰 Revenue Generated: 5,000,000+ PKR  
-- 📈 ROAS: 4X+  
-- 🎯 Strategy: Creative testing + CBO scaling  
-
----
-
-### 🔹 Shopify Store Growth
-- 🚀 Scaled from low sales to consistent daily orders  
-- 🎯 Focus: Winning product + ad creative angle  
-
----
-
-## 🛠 Tools & Skills
-
-- Meta Ads Manager  
-- Shopify  
-- Audience Research  
-- Creative Testing  
-- Funnel Strategy  
-- AI Tools for E-commerce  
-
----
-
-## 📬 Let's Work Together
-
-If you're looking to scale your e-commerce brand with **profitable ads**, let’s connect.
-
-📧 Email: info@blue7.digital  
-📱 WhatsApp: +923334106309  
-
----
-
-## ⚡ About Me
-
-I'm passionate about performance marketing and obsessed with scaling brands through **paid ads and smart strategies**.
-
----
+Email: info@blue7.digital  
+WhatsApp: +923334106309
