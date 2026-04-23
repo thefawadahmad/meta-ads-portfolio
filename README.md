@@ -20,7 +20,7 @@ I help e-commerce brands scale profitably using **data-driven Meta Ads strategie
 
 ## 🧠 My Approach
 
-I don’t just run ads — I build **systems that scale**.
+I don’t just run ads, I build **systems that scale**.
 
 ✔ Deep product & audience research  
 ✔ Scroll-stopping creatives  
@@ -59,8 +59,8 @@ I don’t just run ads — I build **systems that scale**.
 
 If you're looking to scale your e-commerce brand with **profitable ads**, let’s connect.
 
-📧 Email: your-email-here  
-📱 WhatsApp: your-number-here  
+📧 Email: info@blue7.digital  
+📱 WhatsApp: +923334106309  
 
 ---
 
@@ -69,4 +69,3 @@ If you're looking to scale your e-commerce brand with **profitable ads**, let’
 I'm passionate about performance marketing and obsessed with scaling brands through **paid ads and smart strategies**.
 
 ---
-Update portfolio README
